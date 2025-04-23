@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khunt Jay</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd256eGM0dXN2YXR1OXU5dmhxdzhzOHZxdXlwM3E4a2NhMm1kbGp4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
-- 📫 How to reach me **khuntjay6@gmail.com**
+- 📫 How to reach me **jaykhunt26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
